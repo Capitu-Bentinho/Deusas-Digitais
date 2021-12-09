@@ -636,6 +636,13 @@ border-radius: 10px;
   .btn{
     width: 50%;
   }
+  .pauline {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:45%;
+  }
  
     
    
@@ -698,6 +705,13 @@ border-radius: 10px;
      .btn{
       width: 80%;
     }
+    .pauline {
+      float: none;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width:45%;
+    }
   
   
   }
@@ -752,6 +766,13 @@ border-radius: 10px;
      .btn{
       width: 80%;
     }
+    .pauline {
+      float: none;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width:45%;
+    }
     
   
   }
@@ -805,6 +826,15 @@ border-radius: 10px;
        .btn{
         width: 80%;
       }
+
+      .pauline {
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:45%;
+      }
+      
   
   
   }
