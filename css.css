@@ -595,10 +595,21 @@ border-radius: 10px;
     *{
       width: 100%;
     }
-    section{
+    .begehome{
       width: 100%;
-     
-    }
+    
+  }
+  
+ .bege {
+    width: 100%;
+       
+  }
+
+   
+  .branco {
+    width: 100%;
+   
+  }
   
     h1{
    font-size: 1.5em;
@@ -634,7 +645,18 @@ border-radius: 10px;
       width: 100%;
     }
   
-  section{
+    .begehome{
+      width: 100%;
+    
+  }
+  
+ .bege {
+    width: 100%;
+       
+  }
+
+   
+  .branco {
     width: 100%;
    
   }
@@ -666,9 +688,19 @@ border-radius: 10px;
       width: 100%;
     }
   
-    section{
+    .begehome{
       width: 100%;
+    
+  }
+  
+ .bege {
+    width: 100%;
+       
+  }
+
    
+  .branco {
+    width: 100%;
    
   }
   
@@ -698,11 +730,21 @@ border-radius: 10px;
       width: 100%;
     }
   
-    section{
+    .begehome{
       width: 100%;
-     
-    }
+    
+  }
   
+ .bege {
+    width: 100%;
+       
+  }
+
+   
+  .branco {
+    width: 100%;
+   
+  }
     h1{
       font-size: 1.5em;
        }
