@@ -380,6 +380,15 @@ border-radius: 10px;
    
   }
 
+  .column2 {
+    float: left;
+    width: 31%;
+    padding: 10px 10px;
+    margin: 2px;
+    margin-bottom: 10px;
+   
+  }
+
 
   .column7 {
     text-align: center;
