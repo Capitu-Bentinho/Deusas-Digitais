@@ -657,7 +657,17 @@ border-radius: 10px;
   border-radius: 10px;
     }
     
- 
+   
+    .logo{
+      width: 30%
+      
+    }
+    
+   /*SELOS*/
+  
+   .selo{
+     width: 20%
+   }
    
   
   }
@@ -736,6 +746,18 @@ border-radius: 10px;
     width:45%;
   border-radius: 10px;
     }
+
+      
+  .logo{
+    width: 30%
+    
+  }
+  
+ /*SELOS*/
+
+ .selo{
+   width: 20%
+ }
   
   }
   
@@ -807,6 +829,18 @@ border-radius: 10px;
     width:45%;
   border-radius: 10px;
     }
+
+      
+  .logo{
+    width: 30%
+    
+  }
+  
+ /*SELOS*/
+
+ .selo{
+   width: 20%
+ }
   
   }
   
@@ -878,6 +912,20 @@ border-radius: 10px;
     width:45%;
   border-radius: 10px;
     }
+
+      /*LOGOTYPE*/
+  
+  
+  .logo{
+    width: 30%
+    
+  }
+  
+ /*SELOS*/
+
+ .selo{
+   width: 20%
+ }
   
   
   }
