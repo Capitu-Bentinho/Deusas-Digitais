@@ -438,7 +438,7 @@ border-radius: 10px;
     margin: 2px;
     margin-bottom: 10px;
   }
-  
+
   /* Remove extra left and right margins, due to padding */
   .row {margin: 0 -5px;}
   
@@ -451,7 +451,7 @@ border-radius: 10px;
   
   /* Responsive columns */
   @media screen and (max-width: 400px) {
-    .column {
+    .column .column2 {
       width: 100%;
       display: block;
       margin-bottom: 20px;
@@ -459,7 +459,7 @@ border-radius: 10px;
   }
   
   @media screen and (max-width: 600px) {
-    .column {
+    .column .column2 {
       width: 100%;
       display: block;
       margin-bottom: 20px;
@@ -467,7 +467,7 @@ border-radius: 10px;
   }
   
   @media screen and (max-width: 800px) {
-    .column {
+    .column .column2 {
       width: 100%;
       display: block;
       margin-bottom: 20px;
@@ -476,7 +476,7 @@ border-radius: 10px;
   
   
   @media screen and (max-width: 900px) {
-    .column {
+    .column .column2 {
       width: 100%;
       display: block;
       margin-bottom: 20px;
@@ -485,7 +485,7 @@ border-radius: 10px;
   
   
   @media screen and (max-width: 1100px) {
-    .column {
+    .column .column2 {
       width: 100%;
       display: block;
       margin-bottom: 20px;
@@ -493,7 +493,7 @@ border-radius: 10px;
   }
   
   @media screen and (max-width: 1200px) {
-    .column {
+    .column .column2 {
       width: 100%;
       display: block;
       margin-bottom: 20px;
