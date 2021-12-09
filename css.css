@@ -451,7 +451,13 @@ border-radius: 10px;
   
   /* Responsive columns */
   @media screen and (max-width: 400px) {
-    .column .column2 {
+    .column  {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    .column2{
       width: 100%;
       display: block;
       margin-bottom: 20px;
@@ -459,7 +465,13 @@ border-radius: 10px;
   }
   
   @media screen and (max-width: 600px) {
-    .column .column2 {
+    .column  {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    .column2{
       width: 100%;
       display: block;
       margin-bottom: 20px;
@@ -467,7 +479,13 @@ border-radius: 10px;
   }
   
   @media screen and (max-width: 800px) {
-    .column .column2 {
+    .column  {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    .column2{
       width: 100%;
       display: block;
       margin-bottom: 20px;
@@ -476,7 +494,12 @@ border-radius: 10px;
   
   
   @media screen and (max-width: 900px) {
-    .column .column2 {
+    .column  {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+    .column2{
       width: 100%;
       display: block;
       margin-bottom: 20px;
@@ -485,7 +508,12 @@ border-radius: 10px;
   
   
   @media screen and (max-width: 1100px) {
-    .column .column2 {
+    .column  {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+    .column2{
       width: 100%;
       display: block;
       margin-bottom: 20px;
@@ -493,7 +521,12 @@ border-radius: 10px;
   }
   
   @media screen and (max-width: 1200px) {
-    .column .column2 {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+    .column2{
       width: 100%;
       display: block;
       margin-bottom: 20px;
