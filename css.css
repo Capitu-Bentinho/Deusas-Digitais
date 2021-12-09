@@ -624,7 +624,9 @@ border-radius: 10px;
     }
   
     
-  
+  .btn{
+    width: 50%;
+  }
  
     
    
@@ -674,7 +676,10 @@ border-radius: 10px;
      }
   
   
-
+   
+     .btn{
+      width: 50%;
+    }
   
   
   }
@@ -716,7 +721,10 @@ border-radius: 10px;
        font-size: 1em;
      }
   
- 
+    
+     .btn{
+      width: 50%;
+    }
     
   
   }
@@ -758,7 +766,10 @@ border-radius: 10px;
        }
   
    
-  
+     
+       .btn{
+        width: 50%;
+      }
   
   
   }
