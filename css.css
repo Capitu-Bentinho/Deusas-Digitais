@@ -758,6 +758,15 @@ border-radius: 10px;
  .selo{
    width: 20%
  }
+
+ /* GARANTIA */
+
+ .garantia{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:60%;
+ }
   
   }
   
@@ -840,6 +849,15 @@ border-radius: 10px;
 
  .selo{
    width: 20%
+ }
+
+ /* GARANTIA */
+
+ .garantia{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:60%;
  }
   
   }
@@ -927,6 +945,15 @@ border-radius: 10px;
    width: 20%
  }
   
+
+ /* GARANTIA */
+
+ .garantia{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:60%;
+ }
   
   }
   
