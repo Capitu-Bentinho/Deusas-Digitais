@@ -85,7 +85,8 @@
     display: table;
     padding: 20px;
     margin: auto;
-    border-radius: 5px;
+    margin-bottom: 2%;
+    border-radius: 7px;
     background-color: #cfa97c;
    
   }
