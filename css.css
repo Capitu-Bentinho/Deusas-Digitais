@@ -1013,7 +1013,7 @@ margin-left: 5%;
  .embed-cont iframe, .embed-cont object, .embed-cont embed {
   position: absolute;
   top:0;
-  width: 100%;
+  width: 70%;
   height: 100%;
  }
 
@@ -1028,7 +1028,7 @@ margin-left: 5%;
  .embed-container iframe, .embed-container object, .embed-container embed {
   position: absolute;
   top:0;
-  width: 100%;
+  width: 70%;
   height: 100%;
  }
   
