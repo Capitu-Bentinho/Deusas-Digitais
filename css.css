@@ -1105,7 +1105,7 @@ margin-left: 5%;
   padding-top: 35px;
   height: 0;
   overflow: hidden;
-
+ margin-bottom: 2%;
  }
  .embed-cont iframe, .embed-cont object, .embed-cont embed {
   position: absolute;
@@ -1121,7 +1121,7 @@ margin-left: 5%;
     padding-top: 35px;
     height: 0;
     overflow: hidden;
-
+    
  }
  .embed-container iframe, .embed-container object, .embed-container embed {
   position: absolute;
