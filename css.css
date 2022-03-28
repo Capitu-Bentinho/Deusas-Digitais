@@ -14,10 +14,7 @@
     font-family: 'Open Sans', sans-serif;
     color: #000000;
     text-align: center;
-    background-image: url('fundo.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
+    background:#f1f1f1;
 
     
    
