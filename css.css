@@ -701,6 +701,38 @@ margin-left: 5%;
      width: 20%;
    }
    
+    /*vídeos*/
+
+ .embed-cont  {
+  position: relative;
+  padding-bottom: 29%;
+  padding-top: 5%;
+  height: 0;
+  overflow: hidden;
+
+ }
+ .embed-cont iframe, .embed-cont object, .embed-cont embed {
+  position: absolute;
+  top:0;
+  width: 70%;
+  height: 80%;
+ }
+
+ .embed-container  {
+  position: relative;
+  padding-bottom: 35%;
+  padding-top: 5%;
+  height: 0;
+  overflow: hidden;
+
+ }
+ .embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top:0;
+  width: 70%;
+  height: 80%;
+ }
+   
   
   }
   
@@ -802,6 +834,38 @@ margin-left: 5%;
   margin-right: auto;
   width:50%;
  }
+
+  /*vídeos*/
+
+  .embed-cont  {
+    position: relative;
+    padding-bottom: 29%;
+    padding-top: 5%;
+    height: 0;
+    overflow: hidden;
+  
+   }
+   .embed-cont iframe, .embed-cont object, .embed-cont embed {
+    position: absolute;
+    top:0;
+    width: 70%;
+    height: 80%;
+   }
+  
+   .embed-container  {
+    position: relative;
+    padding-bottom: 35%;
+    padding-top: 5%;
+    height: 0;
+    overflow: hidden;
+  
+   }
+   .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top:0;
+    width: 70%;
+    height: 80%;
+   }
   
   
   }
@@ -899,6 +963,38 @@ margin-left: 5%;
   margin-right: auto;
   width:50%;
  }
+
+  /*vídeos*/
+
+  .embed-cont  {
+    position: relative;
+    padding-bottom: 29%;
+    padding-top: 5%;
+    height: 0;
+    overflow: hidden;
+  
+   }
+   .embed-cont iframe, .embed-cont object, .embed-cont embed {
+    position: absolute;
+    top:0;
+    width: 70%;
+    height: 80%;
+   }
+  
+   .embed-container  {
+    position: relative;
+    padding-bottom: 35%;
+    padding-top: 5%;
+    height: 0;
+    overflow: hidden;
+  
+   }
+   .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top:0;
+    width: 70%;
+    height: 80%;
+   }
   
   
   }
