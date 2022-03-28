@@ -1002,6 +1002,40 @@ margin-left: 5%;
   margin-right: auto;
   width:40%;
  }
+
+ /*vídeos*/
+
+ .embed-cont  {
+  position: relative;
+  padding-bottom: 25%;
+  padding-top: 5%;
+  height: 0;
+  overflow: hidden;
+
+ }
+ .embed-cont iframe, .embed-cont object, .embed-cont embed {
+  position: absolute;
+  top:0;
+  left: 28%;
+  width: 100%;
+  height: 100%;
+ }
+
+ .embed-container  {
+  position: relative;
+  padding-bottom: 25%;
+  padding-top: 5%;
+  height: 0;
+  overflow: hidden;
+
+ }
+ .embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top:0;
+  left: 28%;
+  width: 100%;
+  height: 100%;
+ }
   
   }
   
